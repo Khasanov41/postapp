@@ -15,16 +15,16 @@ PostApp основан на [JSONPlaceholder](https://github.com/typicode/jsonpl
 # Установка
 1. Скачайте репозиторий:
 ```bash
-git clone https://github.com/Khasanov41/postapp
+$ git clone https://github.com/Khasanov41/postapp
 ```
 
 2. Установите зависимости:
 ```bash
-npm install -g json-server
+$ npm install -g json-server
 ```
 3. Запустите локальный сервер:
 ```
-cd postapp
-json-server --watch db.json
+$ cd postapp
+$ json-server --watch db.json
 ```
 4. Откройте страничку в браузере [http://localhost:3000](http://localhost:3000)
