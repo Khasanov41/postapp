@@ -13,17 +13,18 @@ PostApp основан на [JSONPlaceholder](https://github.com/typicode/jsonpl
 * Поддержка темной и светлой тем
 
 # Установка
-Скачайте репозиторий:
+1. Скачайте репозиторий:
 ```bash
 git clone https://github.com/Khasanov41/postapp
 ```
 
-Установите зависимости:
+2. Установите зависимости:
 ```bash
 cd postapp
-npm install
+npm install -g json-server
 ```
-Запустите локальный сервер:
+3. Запустите локальный сервер:
 ```
 json-server --watch db.json
 ```
+4. Откройте страничку в браузере `http://localhost:3000`
