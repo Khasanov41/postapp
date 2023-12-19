@@ -27,4 +27,4 @@ npm install -g json-server
 cd postapp
 json-server --watch db.json
 ```
-4. Откройте страничку в браузере `http://localhost:3000`
+4. Откройте страничку в браузере [http://localhost:3000](http://localhost:3000)
