@@ -20,11 +20,11 @@ git clone https://github.com/Khasanov41/postapp
 
 2. Установите зависимости:
 ```bash
-cd postapp
 npm install -g json-server
 ```
 3. Запустите локальный сервер:
 ```
+cd postapp
 json-server --watch db.json
 ```
 4. Откройте страничку в браузере `http://localhost:3000`
