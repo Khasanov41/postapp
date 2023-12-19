@@ -1,0 +1,17 @@
+{
+    "name": "postapp",
+    "version": "0.1.0",
+    "description": "Tinokoff web development course homework. ",
+    "keywords": [
+        "blog"
+    ],
+    "homepage": "http://jsonplaceholder.typicode.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/typicode/jsonplaceholder.git"
+    },
+    "dependencies": {
+        "json-server": "^0.17.4"
+    },
+    "license": "MIT"
+}
